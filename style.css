@@ -19,7 +19,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 50vh;
+  height: 100vh;
   background: #222;
   background-image: repeating-linear-gradient(
     to bottom,
